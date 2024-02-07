@@ -6,7 +6,7 @@ import Login from './Components/Login';
 import Upload from './Components/Upload';
 import Signup from './Components/Signup';
 import Youtube from './Components/vid';
-
+import './Components/mediaquery.scss'
 function App() {
   return (
     <Router>
